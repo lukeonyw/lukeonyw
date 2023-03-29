@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="left">I'm Luke, a Portfolio Associate with a keen interest in data analytics 👨‍💻</div>  
+## <div align="left">I'm Luke, an analyst with a keen interest in data analytics 👨‍💻</div>  
 
 🔭 I’m currently working on my first tech project.  
 🌱 I’m currently learning Data Analytics in a Finance context.  
